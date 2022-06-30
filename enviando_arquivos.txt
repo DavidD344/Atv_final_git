@@ -1,0 +1,4 @@
+Para enviar arquivos você precisa primeira mandar os arquivos para a stage como "git add arquivo"
+
+Depois enviar e comitar ele "git commit -m 'comentario'"
+
