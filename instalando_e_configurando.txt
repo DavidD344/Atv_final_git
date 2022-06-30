@@ -1,0 +1,24 @@
+Primeiramente você precisa ter o git instalado na sua máquina e ter uma conta no github
+
+Baixe o git na sua máquina:(https://desktop.github.com)
+
+Crie sua conta no github:(https://github.com)
+
+Instale o git em sua máquina.
+
+
+Com o git instalado você vai precisar abrir o git bash. Esse vai ser o terminal onde você vai efetuar a maioria dos comandos e que vai ser sua alida nessa jornada.
+
+Inicie o git bash
+
+Não tenha medo. O terminal pode parecer algo absurdo de inicio porém com pratica você vai ver que não é nada complicado.
+
+Inicalmente precisamos do seu nome e email para as te identificar nas futuras atualizações que você fizer em algum repositorio.
+Essas configurações iniciais so serão feitas uma vez então é so seguir o passo a passo:
+
+obs(Se quiser colar o codigo no git bash copie ele e na hora de colar utilize o (shift+insert), se você usar (ctrl + c) vai dar erro.
+
+1-Digite:git config --global user.name "Seu nome"
+2-Digite:git config --global user.email "Seu email"
+
+Prontinho. Agora o sempre que você usar o git vão saber quem foi e como entrar em contato.
