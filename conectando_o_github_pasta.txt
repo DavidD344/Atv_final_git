@@ -1,0 +1,9 @@
+Primeiro você precisa acessar a pasta atraves do git bash
+
+Abuse dos comandos "ls" "cd pasta" "cd .."
+
+va pulando de pasta em pasta ate entrar na que você deseja iniciar o seu projeto
+
+Quando entrar na pasta você vai precisar iniciar  o git naquela pasta.
+
+Use o comando "git init" para iniciar o git nas pasta
