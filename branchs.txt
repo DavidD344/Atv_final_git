@@ -1,0 +1,7 @@
+As branchs de uma forma resumida são como os ramos do seu código. E eles vão te ajudar bastante em trabalhar em equipe e na criação de um projeto com diversas features.
+
+Use o comando "git branch" para saber quantasa branchs você criou.
+
+Use o para criar uma branch e trocar para ela use "git checkout -b nome_branch"
+
+Para alternar o branch use "git checkout nome_branch"
